@@ -1,0 +1,10 @@
+0	5	eat food bread sugar snack meal cheese fruit small eating potato carbs sweet meat rice recipe egg breakfast veggie lunch 
+1	5	ac year month week weight diagnosed started ago lb diagnosis lost lose symptom change couple normal past loss today pound 
+2	5	good feel thing great lot work time sound luck bit ill yeah making pretty hope libre stuff sensor job place 
+3	5	diet carbs low keto carb fat eat sugar eating food lot protein high calorie avoid diabetic intake good rketo recommend 
+4	5	diabetes people type post disease health question research medical information advice understand study experience ampxb patient answer link condition support 
+5	5	doctor test testing check meter result time point read insurance told gt strip tested pretty idea number endocrinologist talk endo 
+6	5	blood sugar hour level bg fasting meal day high time reading morning number normal range lower eating night glucose drop 
+7	5	day metformin exercise med work taking effect start mg time drink medication minute water daily pill dose walk working stop 
+8	5	diabetic control diabetes life long bad thing dr healthy good hard term foot number cholesterol book hospital worse eye live 
+9	5	insulin type glucose body diabetes problem liver blood resistance level high increase hypo issue unit case longer pancreas energy symptom 
